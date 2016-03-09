@@ -9,10 +9,10 @@ Pod::Spec.new do |s|
 This library helps you to reverse geo code for current location or custom location using google api.
                        DESC
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/GoogleReverseGeoCode"
+  s.homepage         = "https://github.com/kaushaldream11/GoogleReverseGeoCode"
   s.license          = 'MIT'
   s.author           = { "”kaushaldream11”" => "kaushal.bisht@dream11.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/GoogleReverseGeoCode.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/kaushaldream11/GoogleReverseGeoCode.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '8.0'
   s.requires_arc = true
