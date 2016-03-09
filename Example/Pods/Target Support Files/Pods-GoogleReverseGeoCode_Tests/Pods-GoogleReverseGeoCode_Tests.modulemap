@@ -1,0 +1,6 @@
+framework module Pods_GoogleReverseGeoCode_Tests {
+  umbrella header "Pods-GoogleReverseGeoCode_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module GoogleReverseGeoCode {
+  umbrella header "GoogleReverseGeoCode-umbrella.h"
+
+  export *
+  module * { export * }
+}
